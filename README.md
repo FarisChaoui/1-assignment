@@ -1,1 +1,9 @@
-# dh1-first-assignment
+# First Assignment
+
+---
+
+*This is point one
+*This is point two
+*This is point three 
+
+Faris Chaoui
